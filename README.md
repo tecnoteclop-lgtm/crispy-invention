@@ -1,0 +1,2 @@
+# crispy-invention
+geliştirme aşamasında
